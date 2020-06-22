@@ -221,7 +221,7 @@ r = range(0, 10)
 for i in r[::-1]:
     print(i)
 
-ss = 'String' # 'String' allocated a space in memory and a variable name ss point
+ss = 'String' # 'String' allocated a space in memory and a variable _name ss point
 # the address
 print(hex(id(ss)))  # address of memory allocated space
 ss = ss[::-1]  # ss[::-1] -> is  creating a new string so it allocate a new space in memory

@@ -1,6 +1,8 @@
 class Kettle(object):
-    # __init__ is a constructer
-    # It is called when the class is instanciated
+    power_type = 'Thermal'
+
+    # __init__ is a constructor
+    # It is called when the class is instantiated
     def __init__(self, make, price):
         self.make = make
         self.price = price
@@ -39,8 +41,35 @@ Kettle.switch_on(kenwood)
 print(kenwood.on)
 
 # In the python variable is defined when it comes first contact power is created in this
-# and only assosiated with kenwood object.
+# and only associated with kenwood object.
 kenwood.power = 1.5
 print(kenwood.power)
 # power variable is not defined in the hamilton object so it cause a error
 # print(hamilton.power)
+
+"""
+In this a [power_type] attribute is in [Kettle] class and reflected into the
+[kenwood] and [hamilton] object. [power_type] is not a attribute of [kenwood] and
+[hamilton] object
+"""
+print(Kettle.power_type)
+print(kenwood.power_type)
+print(hamilton.power_type)
+print(Kettle.__dict__)
+print(kenwood.__dict__)
+print(hamilton.__dict__)
+
+# change power_type to nuclear
+"""
+In this a [power_type] is change to [thermal] to [nuclear] 
+in the [kenwood] object. [power_type] is not change in the 
+[Kettle] class but create a new attribute in the [kenwood] object
+"""
+print('*' * 20)
+kenwood.power_type = 'nuclear'
+print(Kettle.power_type)
+print(kenwood.power_type)
+print(hamilton.power_type)
+print(Kettle.__dict__)
+print(kenwood.__dict__)
+print(hamilton.__dict__)
