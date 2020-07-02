@@ -176,19 +176,6 @@ Aerosmith	Big Ones	1994	Angel
 Aerosmith	Big Ones	1994	Livin' On The Edge
 Aerosmith	Big Ones	1994	Dude (Looks Like A Lady)- live
 Aerosmith	Nine Lives	1997	Nine Lives
-Aerosmith	Nine Lives	1997	Falling In Love (Is Hard On The Knees)
-Aerosmith	Nine Lives	1997	Hole In My Soul
-Aerosmith	Nine Lives	1997	Taste Of India
-Aerosmith	Nine Lives	1997	Full Circle
-Aerosmith	Nine Lives	1997	Something's Gotta Give
-Aerosmith	Nine Lives	1997	Ain't That A Bitch
-Aerosmith	Nine Lives	1997	The Farm
-Aerosmith	Nine Lives	1997	Crash
-Aerosmith	Nine Lives	1997	Kiss Your Past Good-Bye
-Aerosmith	Nine Lives	1997	Pink
-Aerosmith	Nine Lives	1997	Falling Off
-Aerosmith	Nine Lives	1997	Attitude Adjustment
-Aerosmith	Nine Lives	1997	Fallen Angels
 Aerosmith	Just Push Play	2001	Beyond Beautiful
 Aerosmith	Just Push Play	2001	Just Push Play
 Aerosmith	Just Push Play	2001	Jaded
@@ -331,6 +318,19 @@ Heart	Dog & Butterfly	1978	Mistral Wind
 Heart	Dog & Butterfly	1978	Heartless
 Heart	Dog & Butterfly	1978	Feels
 Heart	Dog & Butterfly	1978	A Little Bit
+Aerosmith	Nine Lives	1997	Falling In Love (Is Hard On The Knees)
+Aerosmith	Nine Lives	1997	Hole In My Soul
+Aerosmith	Nine Lives	1997	Taste Of India
+Aerosmith	Nine Lives	1997	Full Circle
+Aerosmith	Nine Lives	1997	Something's Gotta Give
+Aerosmith	Nine Lives	1997	Ain't That A Bitch
+Aerosmith	Nine Lives	1997	The Farm
+Aerosmith	Nine Lives	1997	Crash
+Aerosmith	Nine Lives	1997	Kiss Your Past Good-Bye
+Aerosmith	Nine Lives	1997	Pink
+Aerosmith	Nine Lives	1997	Falling Off
+Aerosmith	Nine Lives	1997	Attitude Adjustment
+Aerosmith	Nine Lives	1997	Fallen Angels
 Heaven & Hell	The Devil You Know	2009	Atom And Evil
 Heaven & Hell	The Devil You Know	2009	Fear
 Heaven & Hell	The Devil You Know	2009	Bible Black
