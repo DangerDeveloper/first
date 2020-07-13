@@ -1,28 +1,53 @@
-from oop.game.player import Player
+from oop.game.enemy import Enemy, Troll
 
-ajay = Player('Ajay')
+random_monster = Enemy('Basic Enemy', 12, 1)
+print(random_monster)
 
-print(ajay.name)
-print(ajay.lives)
+random_monster.take_damage(4)
+print(random_monster)
 
-ajay.lives -= 1
-print(ajay)
+random_monster.take_damage(8)
+print(random_monster)
 
-ajay.lives -= 1
-print(ajay)
+random_monster.take_damage(9)
+print(random_monster)
 
-ajay.lives -= 1
-print(ajay)
+ugly_troll = Troll()
+print('ugly_troll: {}'.format(ugly_troll))
 
-ajay.lives -= 1
-print(ajay)
+another_troll = Troll('another Troll', 10, 1)
+print('Another Troll: {}'.format(another_troll))
 
+brother = Troll('Urg', 23)
+print(brother)
 
-ajay.level = 2
-print(ajay)
+print(another_troll)
 
-ajay.level = 4
-print(ajay)
-
-ajay.level = 3
-print(ajay)
+# from oop.game.player import Player
+#
+# ajay = Player('Ajay')
+#
+# print(ajay.name)
+# print(ajay.lives)
+#
+# ajay.lives -= 1
+# print(ajay)
+#
+# ajay.lives -= 1
+# print(ajay)
+#
+# ajay.lives -= 1
+# print(ajay)
+#
+# ajay.lives -= 1
+# print(ajay)
+#
+#
+# ajay.level = 2
+# print(ajay)
+#
+# ajay.level = 4
+# print(ajay)
+#
+# ajay.level = 3
+# print(ajay)
